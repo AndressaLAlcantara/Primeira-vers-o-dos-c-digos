@@ -14,4 +14,4 @@ else:
     diferença = b - a
     print ("A diferença entre o maior e o menor valor é:", diferença)
 
-#Resultado
+#Fim
